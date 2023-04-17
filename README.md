@@ -1,6 +1,6 @@
-## + 1
+## Plus One
 
-This repository is a small proof of concept used to demonstrate what would be required to achieve voice-to-image in accordance with our application (+ 1) that seeks to explore computer-mediated-conversation and act as a form of enactive assistance in the context of a design charrette. <br />
+This repository is a small proof of concept used to demonstrate what would be required to achieve voice-to-image in accordance with our application, Plus One, that seeks to explore computer-mediated-conversation and act as a form of enactive assistance in the context of a design charrette. <br />
 
 This small proof-of-concept was used to demonstrate the challenges involved, both technically and from the perspective of UX (user experience), in leveraging current paradigm's in diffusion modeling for image generation and speech recognition. <br />
 
